@@ -1,0 +1,9 @@
+{
+	"name": "databag-datafactory04",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "3490e259-7c82-4255-aeff-4c6eddfdb169",
+		"tenantId": "bd73a8c0-c3dd-41c0-b380-34a6cb6ddc75"
+	}
+}
